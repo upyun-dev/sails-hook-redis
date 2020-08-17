@@ -3,7 +3,7 @@ const Redis = require('ioredis');
 
 module.exports = function defineRedisHook(sails) {
   return {
-    initialize: async function(cb) {
+    initialize: async function() {
       sails.log.info('Initializing custom hook (`redis`)');
 
       let client;
