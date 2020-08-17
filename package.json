@@ -1,0 +1,14 @@
+{
+  "name": "sails-hook-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bo.yang <bo.yang@oidbo.com>",
+  "sails": {
+    "isHook": true
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ioredis": "^4.17.3",
+    "sails": "^1.2.4"
+  }
+}
