@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-redis",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "author": "bo.yang <bo.yang@oidbo.com>",
   "sails": {
